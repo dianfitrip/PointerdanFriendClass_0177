@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_pemdas7 mei", "poin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer yang pke new", "pointer yang pke new\pointer yang pke new.vcxproj", "{F3DD76CE-535A-4F1D-B700-674F5A348E7C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendclass", "friendclass\friendclass.vcxproj", "{2B21F78A-0729-4DEE-AC84-FAF518973733}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F3DD76CE-535A-4F1D-B700-674F5A348E7C}.Release|x64.Build.0 = Release|x64
 		{F3DD76CE-535A-4F1D-B700-674F5A348E7C}.Release|x86.ActiveCfg = Release|Win32
 		{F3DD76CE-535A-4F1D-B700-674F5A348E7C}.Release|x86.Build.0 = Release|Win32
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Debug|x64.ActiveCfg = Debug|x64
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Debug|x64.Build.0 = Debug|x64
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Debug|x86.Build.0 = Debug|Win32
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Release|x64.ActiveCfg = Release|x64
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Release|x64.Build.0 = Release|x64
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Release|x86.ActiveCfg = Release|Win32
+		{2B21F78A-0729-4DEE-AC84-FAF518973733}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
